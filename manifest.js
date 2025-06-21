@@ -1,0 +1,2 @@
+(()=>{var r={6279:(r,t,e)=>{r.exports=e.p+"manifest.json"}},t={};function e(o){var p=t[o];if(void 0!==p)return p.exports;var s=t[o]={exports:{}};return r[o](s,s.exports,e),s.exports}e.p="./",e(6279)})();
+//# sourceMappingURL=manifest.js.map
